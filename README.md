@@ -10,4 +10,4 @@
 - Latest Tour News.
 - An Admin can update Booking status.
 
-## live Site Link: https://travel-bizz.web.app/
+## live Site Link: https://dazzling-williams-3d6b7f.netlify.app/
